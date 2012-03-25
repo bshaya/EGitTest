@@ -10,4 +10,9 @@ public class Helper
 	{
 		return 0;
 	}
+	
+	public static int multiple(int x, int y)
+	{
+		return x * y;
+	}
 }
